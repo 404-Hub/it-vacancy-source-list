@@ -6,4 +6,6 @@
 
 Присоединяйтесь к нашему сообществу, делитесь своими находками и помогайте сделать поиск работы в IT простым и легким!
 
+Список источников: [list.md](list.md)
+
 [Telegram](https://t.me/svyatamesto) | [YouTube](https://www.youtube.com/channel/UCHANXYGGO-weVbvoW5UBm9Q) | [Chat](https://t.me/+YKgMaur5pIZjZjBi)
