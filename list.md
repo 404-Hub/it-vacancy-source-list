@@ -225,7 +225,6 @@
 - [IT Relocation (Inflow)](https://t.me/Relocats)  
 - [Game Development Jobs](https://t.me/devjobs)  
 - [IT - Вакансии I Удаленка/Офис](https://t.me/it_vak)  
-- [Биржа IT I Удаленка/Офис](https://t.me/Itjobonline)  
 - [Сети → Вакансии для разработчиков](https://t.me/backend_frontend_jobs)  
 - [Devops Jobs — вакансии и резюме](https://t.me/devops_jobs_feed)  
 - [IT HR Community {Hello, World}](https://t.me/helloworldagencyfaq/15402)  
@@ -252,4 +251,5 @@
 - [Young Gamedev - вакансии в геймдеве, CG](https://t.me/young_gamedev)  
 - [Connectable jobs abroad](https://t.me/zarubezhom_jobs)  
 - [IT JOB KAZAKHSTAN | Вакансии](https://t.me/itvacancies4u)
+
 
